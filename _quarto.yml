@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "My work portfolio"
+  navbar:
+    left:
+      - text: "My name"
+        href: index.qmd
+      - text: "My research focus"
+        href: research_focus.qmd
+      - text: "My portfolio"
+        href: portfolio.qmd
+
+format:
+  html:
+    theme: minty
