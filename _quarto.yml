@@ -3,14 +3,14 @@ project:
   output-dir: docs
 
 website:
-  title: "My work portfolio"
+  title: "semantic-nomad"
   navbar:
     left:
-      - text: "My name"
+      - text: "home"
         href: index.qmd
-      - text: "My research focus"
+      - text: "research foci"
         href: research_focus.qmd
-      - text: "My portfolio"
+      - text: "portfolio/outputs"
         href: portfolio.qmd
 
 format:
