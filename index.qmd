@@ -1,23 +1,29 @@
 ---
-title: "home"
+title: ""
 format: html
 editor: visual
+author: brandon whitehead
+date: today
+
 ---
 
 # Welcome to My Research Portfolio
 
-![Barbara McClintock (1902-1992), Department of Genetics, Carnegie Institution at Cold Spring Harbor, New York, shown in her laboratory. [Photo: From the  Smithsonian Institution Archives, Accession 90-105, Science Service Records, Image No. SIA2008-5609](http://siarchives.si.edu/collections/siris_arc_306310)](images/barbaramcclintock.jpg){width=80%}
+<!--
+![Barbara McClintock (1902-1992), Department of Genetics, Carnegie Institution at Cold Spring Harbor, New York, shown in her laboratory. [Photo: From the Smithsonian Institution Archives, Accession 90-105, Science Service Records, Image No. SIA2008-5609](http://siarchives.si.edu/collections/siris_arc_306310)](images/barbaramcclintock.jpg){width="80%"}
+-->
 
+Hello, I’m **Brandon Whitehead**, an [BLANK] fascinated by the dynamic nature of [BLANK].\
+My work with **[BLANK]** led to the discovery of [BLANK], [BLANK], and eventually, **[BLANK]** — [MORE EXPLANATION OF BLANK].
 
+I am currently working on my PhD in Environmental Engineering Sciences at the **[University of Florida](https://www.ufl.edu/)**.
 
-Hello, I’m **Barbara McClintock**, an American cytogeneticist fascinated by the dynamic nature of the genome.  
-My work with **maize chromosomes** led to the discovery of genetic recombination, chromosome breakage, and eventually, **transposable elements** — genes that can move within the genome.
+I have a Master of Science in Geography from **[Minnesota State University Mankato](https://www.mnsu.edu/)**.  
 
-I completed my PhD in Botany at **Cornell University** in 1927, and spent much of my career exploring how chromosomes behave and control genetic expression in maize.  
-In 1983, I was awarded the **Nobel Prize in Physiology or Medicine** for the discovery of genetic transposition.
 
 This site serves as a portfolio of my research, publications, and ongoing scientific interests.
 
----
+------------------------------------------------------------------------
 
-> “If you know you are on the right track, if you have this inner knowledge, then nobody can turn you off.”
+> “If you don't like change, you're going to like irrelevance even less.” \
+  -- Gen. Eric Shinseki, retired Chief of Staff, U.S. Army
