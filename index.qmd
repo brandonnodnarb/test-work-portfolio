@@ -2,16 +2,12 @@
 title: ""
 format: html
 editor: visual
-author: brandon whitehead
-date: today
-
 ---
 
 # Welcome to My Research Portfolio
 
-<!--
-![Barbara McClintock (1902-1992), Department of Genetics, Carnegie Institution at Cold Spring Harbor, New York, shown in her laboratory. [Photo: From the Smithsonian Institution Archives, Accession 90-105, Science Service Records, Image No. SIA2008-5609](http://siarchives.si.edu/collections/siris_arc_306310)](images/barbaramcclintock.jpg){width="80%"}
--->
+![Brandon Whitehead, shown in nature's laboratory.](assets/bw_bn_full.jpg)
+
 
 Hello, I’m **Brandon Whitehead**, an [BLANK] fascinated by the dynamic nature of [BLANK].\
 My work with **[BLANK]** led to the discovery of [BLANK], [BLANK], and eventually, **[BLANK]** — [MORE EXPLANATION OF BLANK].

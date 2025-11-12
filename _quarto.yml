@@ -6,13 +6,11 @@ website:
   title: "semantic-nomad"
   navbar:
     left:
-      - text: "home"
-        href: index.qmd
-      - text: "research foci"
-        href: research_focus.qmd
-      - text: "portfolio/outputs"
+      - text: "research"
+        href: research.qmd
+      - text: "outputs"
         href: portfolio.qmd
 
 format:
   html:
-    theme: minty
+    theme: zephyr

@@ -1,37 +1,26 @@
 ---
-title: "portfolio"
+title: "outputs"
 format: html
 editor: visual
-date: today
 bibliography: brandon.bib
 ---
-<!-- nocite: '@*' -->
+<!--nocite: '@*'
+---
+-->
 
-Below is a curated selection of my key scientific outputs and contributions.
+Below is a curated selection of my scientific outputs and contributions.
 
-### 📚 Selected Publications
+### 📚 Selected Publications {#articles}
 
-\begin{refsection}
-\section{Selected Publications}
-\nocite{@baker_global_2019} % Cite specific references for this section
-\printbibliography[heading=none]
-\end{refsection}
 
-### 🔬 Data and Resources
+### 🔬 Data {#data}
 
-\begin{refsection}
-\section{Data and Resources}
-\nocite{@narock_eartharxiveartharxivgithubio_2019} % Cite specific references for this section
-\printbibliography[heading=none]
-\end{refsection}
+### Reports {#report}
 
-### 🗞️ Media
-  \begin{refsection}
-  \section{Media}
-  \nocite{@whitehead_unexpected_2024, @bohrer_brandon_2024} % Cite specific references for this section
-  \printbibliography[heading=none]
-  \end{refsection}
+### 🗞 Media {#media}
+
 
 ### 🌐 Professional Links
-
--   [GitHub](https://github.com/brandonnodnarb)
+- GitLab: @[brandonnodnarb](https://gitlab.com/brandonnodnarb)
+- GitHub: @[semantic-nomad](https://github.com/semantic-nomad)
+- GitHub work: @[brandonnodnarb](https://githum.com/brandonnodnarb)
